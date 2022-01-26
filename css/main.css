@@ -131,3 +131,7 @@ span {
   border: 1px solid black;
   border-radius: 3px;
 }
+.danger {
+  background-color: #d82505;
+  color: white;
+}
